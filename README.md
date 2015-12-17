@@ -1,0 +1,2 @@
+# VagrantTraining
+shell_provisioner
